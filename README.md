@@ -18,3 +18,6 @@ Jogo interativo onde o objetivo é clicar nos mosquitos que aparecem na tela ant
 - CSS3 
 - JavaScript
 - Bootstrap 5
+
+## 📸 Prévia do Layout
+![game](./assets/game.png)
