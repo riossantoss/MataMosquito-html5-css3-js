@@ -20,4 +20,12 @@ Jogo interativo onde o objetivo é clicar nos mosquitos que aparecem na tela ant
 - Bootstrap 5
 
 ## 📸 Prévia do Layout
-![game](./assets/game.png)
+
+### Página inicial
+![início](./assets/início.png)
+
+### Vitória
+![vitória](./assets/vitória.png)
+
+### Game Over
+![gameover](./assets/gameover.png)
